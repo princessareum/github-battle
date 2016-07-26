@@ -8,7 +8,7 @@ function getUserInfo(username){
   return axios.get('https://api.github.com/users/' + username + param)
 }
 
-function getRepots (username) {
+function getRepos (username) {
   //fetch usernames repos
   return axios.get('https://api.github.com/users/' + username + '/repos' + param + '&per_page=100');
 }
