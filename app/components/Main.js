@@ -19,6 +19,6 @@ var Main = React.createClass({
 
 module.exports = Main;
 
-https://github.com/ReactjsProgram/react-fundamentals-curriculum
-
-goo.gl/0RdPs8
+// https://github.com/ReactjsProgram/react-fundamentals-curriculum
+//
+// goo.gl/0RdPs8

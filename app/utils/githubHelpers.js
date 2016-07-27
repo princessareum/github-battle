@@ -28,7 +28,7 @@ function getPlayersData (player) {
     .then(getTotalStars)
     .then(function(totalStars){
       return {
-        follwers: player.follwers,
+        followers: player.followers,
         totalStars: totalStars
       }
     })
